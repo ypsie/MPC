@@ -8,5 +8,7 @@ Among others it provides a rudimentary car simulator to implement different cont
 
 I've implemented a basic MPC for parking (nothing fancy yet):
 
+![parking](https://user-images.githubusercontent.com/71444220/96593621-fca0ab00-12e9-11eb-9bed-8fb82f169efc.gif)
+
 
 

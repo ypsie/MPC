@@ -8,5 +8,6 @@ Among others it provides a rudimentary car simulator to implement different cont
 
 I've implemented a basic MPC for autonomous parking (nothing fancy yet):
 
+![parking](https://user-images.githubusercontent.com/71444220/96594393-d8919980-12ea-11eb-92bd-1e97067824a1.gif)
 
 
